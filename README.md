@@ -1,5 +1,4 @@
 # Ex08 CAMU Schedule using Bootstrap
-## Date:17-03-2026
 
 ## AIM:
 To design a responsive and visually appealing CAMU Schedule using Bootstrap.
